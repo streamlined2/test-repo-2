@@ -1,10 +1,10 @@
 0 A
-1
+1 Step18
 2
 3 Step20
 4 B
 5 B
 6
 7
-8
+8 Step18
 9 A
